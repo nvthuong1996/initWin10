@@ -19,3 +19,8 @@
 18. VLC
 19. XAMPP
 20. 
+
+
+Extension:
+- Firefox: live HTML Head
+- Chrome: Access URL, adBlock plus, cjs, eagleGet, editThisCookie, pushbullet,Web timmer, ZenMate VPN
