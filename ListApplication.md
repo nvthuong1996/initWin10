@@ -11,7 +11,7 @@
 10. Foxit reader
 11. Git
 12. Office 2016
-13. Note page ++
+13. Note page ++fds
 14. Recuva
 15. Soft Ether VPN Client
 16. Sublime Text
