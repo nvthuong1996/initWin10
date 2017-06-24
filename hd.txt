@@ -1,3 +1,9 @@
 javascript:(function(){var head=document.getElementsByTagName(%27head%27)[0],script=document.createElement(%27script%27);dataTKB=[];msmhcurrent=""; script.type=%27text/javascript%27; script.src='https://rawgit.com/nvthuong1996/df1307b892501829699ab170e1b07166/raw/65ebb5d6407461e7334a1c0c48c36ff7095cca1f/dangkytinchi.js';head.appendChild(script);})()
 
 https://chrome.google.com/webstore/detail/auto-refresh/ifooldnmmcmlbdennkpdnlnbgbmfalko?hl=vi
+
+Lưu ý: Button xóa sẽ không làm việc được.
+. Có thể giữ login đến gần time đăng kí rồi chọn hoặc chọn xong chờ đến time đăng kí
+. Mỗi lần tải lại trang tool lại mất tác dụng, phải click chọn lại
+. Hãy thử làm quen với tính năng của tool chọn môn học xong ấn thử Lưu đăng ký.
+Mình nghịch chán rồi, không làm sao đâu mà sợ
